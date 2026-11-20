@@ -38,7 +38,7 @@ function generarClave($nombre, $fecha) {
 <body>
 
     <div class="menu">
-        <a href="index.php">Inicio</a>
+        <a href="Index.html">Inicio</a>
         <a href="ejercicio1.php">Ejercicio 1</a>
         <a href="ejercicio2.php">Ejercicio 2</a>
     </div>
